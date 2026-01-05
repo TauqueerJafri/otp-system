@@ -65,4 +65,4 @@ src/
 - Support configurable OTP lengths and masking options.
 
 ## License
-No license has been specified. Add one before distributing or accepting contributions.
+No license has been specified.
